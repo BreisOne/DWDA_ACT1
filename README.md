@@ -5,10 +5,10 @@
 
 ### Alumno: Brais
 
-Requisitos:
-	Cuenta en GitHub
-	VSCode
-	Extensión Git Graph
+- Requisitos: <br>
+	- Cuenta en GitHub <br>
+	- VSCode <br>
+	- Extensión Git Graph <br>
 
 
 1. Crea un nuevo repositorio remoto en GitHub que sea público
